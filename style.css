@@ -1,0 +1,53 @@
+.navbar {
+  border-radius: 10px;
+}
+.slider-bg {
+  background-color: #feeae8;
+  margin-top: 150px;
+  border-radius: 10px;
+  margin-bottom: 100px;
+}
+.catagories-bg-1 {
+  background-color: #ffa500;
+  color: white;
+  border-radius: 15px;
+  padding: 10px 40px;
+}
+.catagories-bg-2 {
+  background-color: #da70d6;
+  color: white;
+  border-radius: 15px;
+  padding: 10px 40px;
+}
+.catagories-bg-3 {
+  background-color: #0000ff;
+  color: white;
+  border-radius: 15px;
+  padding: 10px 40px;
+}
+#shoes {
+  margin-top: 100px;
+}
+.carousel {
+  padding: 0px 50px;
+}
+.carousel img {
+  width: 80%;
+}
+.carousel h1 {
+  font-size: 44px;
+}
+.slider-price {
+  color: #ff136f;
+}
+.btn {
+  background-image: linear-gradient(#fa5f9a, #ff136f);
+  color: white;
+  padding: 10px 20px;
+  font-size: 30;
+  font-weight: 900;
+  border-radius: 10px;
+}
+.card {
+  border-radius: 10px;
+}
